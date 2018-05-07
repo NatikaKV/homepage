@@ -1,0 +1,99 @@
+* {
+    padding: 0;
+    margin: 0;
+    color: #fff;
+    line-height: 23px;
+}
+
+.fixed-bg {
+    background-image: url("image/anime-background-images-1.jpg");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.box {
+    width: 650px;
+    padding: 50px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+    font-family: 'Century Gothic', sans-serif;
+    background: rgba(0, 0, 0, 0.4);
+    font-family: 'Century Gothic', sans-serif;
+    width: 69%;
+}
+
+.box-img {
+    border-radius: 50%;
+    width: 400px;
+    height: 200px;
+}
+
+.box h1 {
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: 100;
+}
+
+dt {
+    line-height: 38px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: url(image/anime-background-images-1.jpg) no-repeat;
+    background-size: cover;
+}
+
+.box-img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+.box h1 {
+    font-size: 40px;
+    letter-spacing: 4px;
+}
+
+.box h4 {
+    padding: 40px;
+    font-size: 20px;
+    letter-spacing: 3px;
+}
+
+.box h5 {
+    padding: 40px;
+    font-size: 20px;
+    letter-spacing: 3px;
+}
+
+.box p {
+    line-height: 23px;
+}
+
+.box li a:hover {
+    color: #b9b9b9;
+}
+
+.box li a:hover {
+    color: #b9b9b9;
+}
+
+.obj {
+    font-family: Georgia, Serif;
+    font-style: italic;
+}
+
+dt {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    width: 150px;
+    height: 30px;
+}
